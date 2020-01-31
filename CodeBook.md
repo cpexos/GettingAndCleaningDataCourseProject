@@ -1,79 +1,82 @@
 # <b>Assignment CodeBook</b>
 
-# Description of variables in TidyDataSet.txt file. Output file contains the average of each variable for each activity and each subject ordered by SubjectID and ActivityType.
+Description of variables in TidyDataSet.txt file. Output file contains the average of each variable for each activity and each subject ordered by SubjectID and ActivityType.
 
-## <b>Identifying Variables</b>
 
-## <b>SubjectID</b>: Subject unique indentifier
-## <b>ActivityType</b>: Name of activity performed
+<b>Identifying Variables</b>
 
-## List of measure variables for which the means and standard deviations are calculated
+<b>SubjectID</b>: Subject unique indentifier<br>
+<b>ActivityType</b>: Name of activity performed
 
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
-tBodyAcc-std()-X
-tBodyAcc-std()-Y
-tBodyAcc-std()-Z
-tGravityAcc-mean()-X
-tGravityAcc-mean()-Y
-tGravityAcc-mean()-Z
-tGravityAcc-std()-X
-tGravityAcc-std()-Y
-tGravityAcc-std()-Z
-tBodyAccJerk-mean()-X
-tBodyAccJerk-mean()-Y
-tBodyAccJerk-mean()-Z
-tBodyAccJerk-std()-X
-tBodyAccJerk-std()-Y
-tBodyAccJerk-std()-Z
-tBodyGyro-mean()-X
-tBodyGyro-mean()-Y
-tBodyGyro-mean()-Z
-tBodyGyro-std()-X
-tBodyGyro-std()-Y
-tBodyGyro-std()-Z
-tBodyGyroJerk-mean()-X
-tBodyGyroJerk-mean()-Y
-tBodyGyroJerk-mean()-Z
-tBodyGyroJerk-std()-X
-tBodyGyroJerk-std()-Y
-tBodyGyroJerk-std()-Z
-tBodyAccMag-mean()
-tGravityAccMag-mean()
-tBodyAccJerkMag-mean()
-tBodyGyroMag-mean()
-tBodyGyroJerkMag-mean()
-fBodyAcc-mean()-X
-fBodyAcc-mean()-Y
-fBodyAcc-mean()-Z
-fBodyAcc-std()-X
-fBodyAcc-std()-Y
-fBodyAcc-std()-Z
-fBodyAcc-meanFreq()-X
-fBodyAcc-meanFreq()-Y
-fBodyAcc-meanFreq()-Z
-fBodyAccJerk-mean()-X
-fBodyAccJerk-mean()-Y
-fBodyAccJerk-mean()-Z
-fBodyAccJerk-std()-X
-fBodyAccJerk-std()-Y
-fBodyAccJerk-std()-Z
-fBodyAccJerk-meanFreq()-X
-fBodyAccJerk-meanFreq()-Y
-fBodyAccJerk-meanF
-fBodyGyro-mean()-Y
-fBodyGyro-mean()-Z
-fBodyGyro-std()-X
-fBodyGyro-std()-Y
-fBodyGyro-std()-Z
-fBodyGyro-meanFreq()-X
-fBodyGyro-meanFreq()-Y
-fBodyGyro-meanFreq()-Z
-fBodyAccMag-mean()fBodyAccMag-meanFreq()
-fBodyBodyAccJerkMag-mean()
-fBodyBodyAccJerkMag-meanFreq()
-fBodyBodyGyroMag-mean()
-fBodyBodyGyroMag-meanFreq()
-fBodyBodyGyroJerkMag-mean()
-fBodyBodyGyroJerkMag-meanFreq()
+
+<b>List of measure variables for which the means and standard deviations are calculated</b>
+
+tBodyAcc-mean()-X<br>
+tBodyAcc-mean()-Y<br>
+tBodyAcc-mean()-Z<br>
+tBodyAcc-std()-X<br>
+tBodyAcc-std()-Y<br>
+tBodyAcc-std()-Z<br>
+tGravityAcc-mean()-X<br>
+tGravityAcc-mean()-Y<br>
+tGravityAcc-mean()-Z<br>
+tGravityAcc-std()-X<br>
+tGravityAcc-std()-Y<br>
+tGravityAcc-std()-Z<br>
+tBodyAccJerk-mean()-X<br>
+tBodyAccJerk-mean()-Y<br>
+tBodyAccJerk-mean()-Z<br>
+tBodyAccJerk-std()-X<br>
+tBodyAccJerk-std()-Y<br>
+tBodyAccJerk-std()-Z<br>
+tBodyGyro-mean()-X<br>
+tBodyGyro-mean()-Y<br>
+tBodyGyro-mean()-Z<br>
+tBodyGyro-std()-X<br>
+tBodyGyro-std()-Y<br>
+tBodyGyro-std()-Z<br>
+tBodyGyroJerk-mean()-X<br>
+tBodyGyroJerk-mean()-Y<br>
+tBodyGyroJerk-mean()-Z<br>
+tBodyGyroJerk-std()-X<br>
+tBodyGyroJerk-std()-Y<br>
+tBodyGyroJerk-std()-Z<br>
+tBodyAccMag-mean()<br>
+tGravityAccMag-mean()<br>
+tBodyAccJerkMag-mean()<br>
+tBodyGyroMag-mean()<br>
+tBodyGyroJerkMag-mean()<br>
+fBodyAcc-mean()-X<br>
+fBodyAcc-mean()-Y<br>
+fBodyAcc-mean()-Z<br>
+fBodyAcc-std()-X<br>
+fBodyAcc-std()-Y<br>
+fBodyAcc-std()-Z<br>
+fBodyAcc-meanFreq()-X<br>
+fBodyAcc-meanFreq()-Y<br>
+fBodyAcc-meanFreq()-Z<br>
+fBodyAccJerk-mean()-X<br>
+fBodyAccJerk-mean()-Y<br>
+fBodyAccJerk-mean()-Z<br>
+fBodyAccJerk-std()-X<br>
+fBodyAccJerk-std()-Y<br>
+fBodyAccJerk-std()-Z<br>
+fBodyAccJerk-meanFreq()-X<br>
+fBodyAccJerk-meanFreq()-Y<br>
+fBodyAccJerk-meanFreq()-Z<br>
+fBodyGyro-mean()-Y<br>
+fBodyGyro-mean()-Z<br>
+fBodyGyro-std()-X<br>
+fBodyGyro-std()-Y<br>
+fBodyGyro-std()-Z<br>
+fBodyGyro-meanFreq()-X<br>
+fBodyGyro-meanFreq()-Y<br>
+fBodyGyro-meanFreq()-Z<br>
+fBodyAccMag-mean()<br>
+fBodyAccMag-meanFreq()<br>
+fBodyBodyAccJerkMag-mean()<br>
+fBodyBodyAccJerkMag-meanFreq()<br>
+fBodyBodyGyroMag-mean()<br>
+fBodyBodyGyroMag-meanFreq()<br>
+fBodyBodyGyroJerkMag-mean()<br>
+fBodyBodyGyroJerkMag-meanFreq()<br>
