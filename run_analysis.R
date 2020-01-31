@@ -1,4 +1,4 @@
-# set dplyr library
+# load dplyr library
 library(dplyr)
 
 # Set my working directory
