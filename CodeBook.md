@@ -11,16 +11,11 @@ Description of variables in TidyDataSet.txt file. Output file contains the avera
 
 <b>List of measure variables for which the means and standard deviations are calculated</b>
 
-tBodyAcc-mean()-X
-
-tBodyAcc-mean()-Y
-
+tBodyAcc-mean()-X<br>
+tBodyAcc-mean()-Y<br>
 tBodyAcc-mean()-Z
-
 tBodyAcc-std()-X
-
 tBodyAcc-std()-Y
-
 tBodyAcc-std()-Z
 
 tGravityAcc-mean()-X
