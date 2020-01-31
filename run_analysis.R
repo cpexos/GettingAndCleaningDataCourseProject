@@ -1,10 +1,6 @@
 # load dplyr library
 library(dplyr)
 
-# Set my working directory for this assignment
-# Change the working directory if executing the code on another computer
-setwd("C:/Users/Costas/datasciencecoursera/Assignment_GettingAndCleaningData_Wk4")
-
 # download file for assignment
 dataset <- tempfile()
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", dataset)
