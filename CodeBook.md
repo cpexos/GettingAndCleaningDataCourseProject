@@ -1,6 +1,6 @@
 # <b>Assignment CodeBook</b>
 
-# Description of variables in TidyDataSet.txt file. Output file contains the average of each variable for each activity and each subject ordered by SubjectID and ActivityType.
+Description of variables in TidyDataSet.txt file. Output file contains the average of each variable for each activity and each subject ordered by SubjectID and ActivityType.
 
 ## <b>Identifying Variables</b>
 
