@@ -5,7 +5,7 @@ Description of variables in TidyDataSet.txt file. Output file contains the avera
 
 <b>Identifying Variables</b>
 
-<b>SubjectID</b>: Subject unique indentifier
+<b>SubjectID</b>: Subject unique indentifier<br>
 <b>ActivityType</b>: Name of activity performed
 
 
